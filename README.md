@@ -1,5 +1,5 @@
-#Adri's  Playground
 
-A place to play with `git`.
-I am messing with Eryk's playground. 
+#Neutral Playground
+
+A place to play with `git`. 
 ### Fall 2021
